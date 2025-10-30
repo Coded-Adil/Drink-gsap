@@ -36,13 +36,13 @@ const Menu = () => {
         });
 
         parallaxTimeline
-        .from('#m-left-leaf', { 
-            x: -100,
-            y: 100,
-        })
         .from('#m-right-leaf', { 
             y: 200,
-        });
+        })
+        .from('#m-left-leaf', { 
+            x: -200,
+            y: 100,
+        }, '<')
 
         gsap.fromTo('title', 
         { opacity: 0 }, 
