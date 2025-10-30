@@ -119,7 +119,7 @@ const openingHours = [
 const socials = [
  {
 	name: "Instagram",
-	icon: "/images/insta.png",
+	icon: "/images/1.png",
 	url: "#",
  },
  {
