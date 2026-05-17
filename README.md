@@ -1,11 +1,11 @@
 # 🧩 Puzzle Bar
 
-**Live Site:** [puzzle-bar.vercel.app](https://puzzle-bar.vercel.app)  
-**GitHub Repository:** [Coded-Adil/Drink-gsap](https://github.com/Coded-Adil/Drink-gsap)
+## **Live Site:** [puzzle-bar.vercel.app](https://puzzle-bar.vercel.app)  
+## **GitHub Repository:** [Coded-Adil/Drink-gsap](https://github.com/Coded-Adil/Drink-gsap)
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 **Puzzle Bar** is a visually engaging web animation project built using **GSAP (GreenSock Animation Platform)**.  
 The main goal was to explore how smooth, timeline-based animations work in modern front-end development — from element transitions to scroll-triggered effects.
 
@@ -13,7 +13,7 @@ This project was inspired by the GSAP tutorial by [@AW1yfBKRMKc](https://youtu.b
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 Working on this project taught me a lot about **animation fundamentals** and **performance optimization** in front-end development.  
 Here’s a breakdown of what I learned:
 
@@ -26,7 +26,7 @@ Here’s a breakdown of what I learned:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6)**
@@ -35,7 +35,7 @@ Here’s a breakdown of what I learned:
 
 ---
 
-## 🧩 Challenges & How I Solved Them
+## Challenges & How I Solved Them
 
 | Challenge | How I Solved It |
 |------------|-----------------|
@@ -46,7 +46,7 @@ Here’s a breakdown of what I learned:
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 - GSAP provides **more control** over animations than CSS transitions.
 - Combining **ScrollTrigger** and **timelines** opens endless creative possibilities.
 - Smooth animation depends heavily on **DOM structure** and **layer organization**.
@@ -54,14 +54,14 @@ Here’s a breakdown of what I learned:
 
 ---
 
-## 🔗 References
+## References
 - [GSAP Official Documentation](https://greensock.com/docs/)
 - [YouTube Tutorial I Followed](https://youtu.be/AW1yfBKRMKc?si=dKlBN1VgQbiQ4xYF)
 - [Live Demo on Vercel](https://puzzle-bar.vercel.app)
 
 ---
 
-## 👨‍💻 About the Developer
+## About the Developer
 **Developed by:** [Adil Rahman](https://github.com/Coded-Adil)  
 A passionate front-end developer from Bangladesh, currently focusing on **React.js**, **GSAP animations**, and **modern UI/UX design**.
 
