@@ -1,4 +1,4 @@
-# 🧩 Puzzle Bar
+# Puzzle Bar
 
 ## **Live Site:** [puzzle-bar.vercel.app](https://puzzle-bar.vercel.app)  
 ## **GitHub Repository:** [Coded-Adil/Drink-gsap](https://github.com/Coded-Adil/Drink-gsap)
